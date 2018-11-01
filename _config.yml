@@ -9,8 +9,8 @@ permalink:        pretty
 title:            İlker Çakır
 tagline:          'Portfolio'
 description:      'Software Developer Portfolio & Blog'
-url:              https://cakirilker.com/hyde
-baseurl:          /
+url:              https://cakirilker.github.io
+baseurl:          /hyde
 
 author:
   name:           'Mark Otto'
